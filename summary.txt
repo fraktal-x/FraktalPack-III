@@ -28,4 +28,5 @@ It contains:
 [25] Dark mode UI
 [26] Minimal rain
 [27] Custom paintings (WIP)
+[28] 24h clock
 
