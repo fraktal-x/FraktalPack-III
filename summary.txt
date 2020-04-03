@@ -1,0 +1,27 @@
+This texture pack contains the following
+
+[01] Black Nether Bricks
+	- textures/item/nether_brick.png
+	- textures/block/nether_bricks.png
+[02] Black strings on hay bales
+	- textures/block/hay_block_side.png
+[03] Less noisy wool textures
+	- textures/block/*****_wool.png
+[04] Vertical iron and gold nuggets
+	- textures/item/iron_nugget.png
+[05] Retextured stems
+	- textures/block/attached_melon_stem.png
+	- textures/block/attached_pumpkin_stem.png
+	- textures/block/melon_stem.png
+	- textures/block/pumpkin_stem.png
+[06] Lower grasses
+	- textures/block/grass_block_side.png
+	- textures/block/grass_block_side_overlay.png
+	- textures/block/grass_block_snow.png
+	- textures/block/grass_path_side.png
+	- textures/block/mycelium_side.png
+	- textures/block/podzol_side.png
+[07] Iron golem retexture
+	- textures/entity/iron_golem/***
+[08] Headless end rod model
+	- models/block/end_rod.json
