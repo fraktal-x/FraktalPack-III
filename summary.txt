@@ -1,27 +1,31 @@
-This texture pack contains the following
+This texture pack is a customised combination of VTr177390 and VTr465386.
+It contains:
 
-[01] Black Nether Bricks
-	- textures/item/nether_brick.png
-	- textures/block/nether_bricks.png
-[02] Black strings on hay bales
-	- textures/block/hay_block_side.png
-[03] Less noisy wool textures
-	- textures/block/*****_wool.png
-[04] Vertical iron and gold nuggets
-	- textures/item/iron_nugget.png
-[05] Retextured stems
-	- textures/block/attached_melon_stem.png
-	- textures/block/attached_pumpkin_stem.png
-	- textures/block/melon_stem.png
-	- textures/block/pumpkin_stem.png
-[06] Lower grasses
-	- textures/block/grass_block_side.png
-	- textures/block/grass_block_side_overlay.png
-	- textures/block/grass_block_snow.png
-	- textures/block/grass_path_side.png
-	- textures/block/mycelium_side.png
-	- textures/block/podzol_side.png
-[07] Iron golem retexture
-	- textures/entity/iron_golem/***
-[08] Headless end rod model
-	- models/block/end_rod.json
+[01] Black Nether Brick item/block
+[02] Retextured Pumpkin/Melon Stems
+[03] Black bundled hay bales
+[04] Vertical nuggets
+[05] Less noisy wool
+[06] Red iron golem flowers
+[07] Improved particles
+[08] Remodelled end rods
+[09] Less noisy purpur
+[10] Lower sides for grass, mycelium, podzol
+[11] Connected bookshelves, iron, lapis, polished stones
+[12] Quieter dispensers, droppers, ghasts, minecarts, vilagers, fire, nether portals, water, endermen, pistons and cows
+[13] Age 25 kelp flowers
+[14] Sticky piston head sides have slime
+[15] Directionally marked hoppers
+[16] Diminising tools
+[17] Unobtrusive scaffolding
+[18] Clean stained glass
+[19] Lower shield and fire in first-person view
+[20] Less noisy enchant glint
+[21] 3D tiles, ladders, rails, sugarcane, lilypads, doors, trapdoors, vines and stonecutters
+[22] Square crosshair and rainbow XP bar
+[23] Coloured ping indicator
+[24] Visible outline for wither hearts
+[25] Dark mode UI
+[26] Minimal rain
+[27] Custom paintings (WIP)
+
