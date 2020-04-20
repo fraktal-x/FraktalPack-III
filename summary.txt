@@ -9,7 +9,7 @@ It contains:
 [06] Red iron golem flowers
 [07] Improved particles
 [08] Remodelled end rods
-[09] Less noisy purpur
+[09] Less noisy purpur and blackstone
 [10] Lower sides for grass, mycelium, podzol
 [11] Connected bookshelves, iron, lapis, polished stones
 [12] Quieter dispensers, droppers, ghasts, minecarts, vilagers, fire, nether portals, water, endermen, pistons and cows
@@ -29,4 +29,6 @@ It contains:
 [26] Minimal rain
 [27] Custom paintings (WIP)
 [28] 24h clock
+[29] Recoloured status effect icons to match the colour of the particles
+
 
